@@ -1,0 +1,145 @@
+
+body {
+    background-color: #F5F5F5;
+}
+
+.sidebar {
+    height: 100%;
+    width: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #0A586C;
+    padding-top: 20px;
+}
+
+.sidebar a {
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+    display: block;
+}
+
+
+
+.header {
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+h3 {
+    font-size: 12px;
+    color: #555;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.user {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+h2 {
+    margin-top: 7px;
+    font-size: 20px;
+}
+
+.continer-fluid {
+    margin-left: 90px;
+}
+
+h4 {
+    font-size: 15px;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 14px;
+    margin-left: 6px;
+    margin-top: 6px;
+}
+
+th {
+    font-size: 12px;
+    margin-left: 5px;
+
+}
+
+td {
+    font-size: 12px;
+    color: #555;
+    margin-left: 5px;
+
+}
+
+table {
+    margin-left: 10px;
+}
+
+.custom-card {
+    width: 18rem;
+    border: none;
+    background-color: #fff;
+    height: 120px;
+    width: 250px;
+}
+
+.custom-image {
+    height: 30px;
+    width: 30px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.custom-report {
+    margin-left: 60px;
+    margin-top: 10px;
+    border: none;
+    width: 100%;
+    margin-right: 10px;
+
+}
+
+.card-img-top {
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+   
+}
+
+
+.img-fluid { 
+    height: 15px;
+    width: 15px;
+}
+
+.card-title {
+    font-size: 15px;
+}
+
+.card-text {
+    font-size: 12px;
+    color: #555;
+}
+.square-border-dotted {
+    border: 2px dotted green;
+    border-radius: 5%;
+text-align: center;
+margin-top: 10px;
+width: 770px;
+margin-right: 5px;
+margin-left: 10px; 
+padding: 4px;
+}
+
+.add-description {
+margin-top: 8px;
+color: green;
+font-size: 15px;
+
+
+}
